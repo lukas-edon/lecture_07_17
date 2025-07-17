@@ -1,1 +1,3 @@
-Sitas failas bus naudojamas konfliktui pademonstruoti
+Sitas failas bus naudojamas konfliktui pademonstruoti. Tiesiog pridesiu teksto
+
+Sita eilute turi konfliktuoti nes git'as nezinos kaip jas apjungti.
