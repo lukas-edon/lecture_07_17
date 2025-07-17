@@ -1,1 +1,3 @@
-Sitas failas bus naudojamas konfliktui pademonstruoti
+Sitas failas bus naudojamas konfliktui pademonstruoti. Pridetas papildomas tekstas, kuris sukels konflikta.
+
+Papildoma eilute, kuri irgi turėtu sukelti klonfikta
