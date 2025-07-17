@@ -1,3 +1,4 @@
-Sitas failas bus naudojamas konfliktui pademonstruoti. Pridetas papildomas tekstas, kuris sukels konflikta.
+Sitas failas bus naudojamas konfliktui pademonstruoti. Tiesiog pridesiu teksto
 
+Sita eilute turi konfliktuoti nes git'as nezinos kaip jas apjungti.
 Papildoma eilute, kuri irgi turėtu sukelti klonfikta
